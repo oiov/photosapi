@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/p", "methods": ["GET"], "dest": "/api/p" }
+  ]
+}
